@@ -1,0 +1,111 @@
+/******************** 发现酷玩 *******************/
+
+
+/* 标题部分 */
+
+nav {
+    background-color: #fff;
+}
+
+nav p {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.play {
+    text-align: center;
+    margin-top: 25px;
+    overflow: hidden;
+}
+
+.play a {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    cursor: pointer;
+    color: #999;
+    font-size: 20px;
+}
+
+.hr {
+    border-bottom: 3px solid red;
+}
+
+
+/* 商品展示部分 */
+
+main {
+    height: 670px;
+    background-color: #f7f7f7;
+    overflow: hidden;
+}
+
+.box {
+    margin: 25px 0px;
+}
+
+.box-1 {
+    width: 250px;
+    height: 300px;
+    border: 1px solid #999;
+    border-radius: 7px;
+    margin: 15px 25px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.box-1 a>img {
+    width: 250px;
+    height: 50%;
+}
+
+.box-2 {
+    height: 50%;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.biao {
+    font-size: 18px;
+    color: #333;
+}
+
+.fb {
+    font-size: 15px;
+    color: #999;
+    margin: 5px;
+}
+
+.box-2-1 {
+    margin: 50px 0;
+}
+
+.box-3 span {
+    color: #999;
+    margin: 0px 5px;
+    font-size: 14px;
+}
+
+.box-2-1 p {
+    color: red;
+    font-size: 14px;
+}
+
+
+/* 点击更多 */
+
+.box5 {
+    color: #333;
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+    background-color: #f7f7f7f7;
+    cursor: pointer;
+}
+
+.box5 img {
+    margin: 0px 5px;
+}
