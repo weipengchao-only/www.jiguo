@@ -1,0 +1,87 @@
+  /* 头部 */
+  header {
+    height: 66px;
+    line-height: 66px;
+  }
+  header .logo > img {
+    height: 50px;
+    margin-top: 8px;
+  }
+  header ul {
+    margin-left: 70px;
+  }
+  header ul li {
+    float: left;
+  }
+ header ul li a {
+    margin: 0 26px;
+    color: #333;
+    font-size: 18px;
+  }
+  header ul .shouye a {
+    color: red;
+  }
+  header .header-right a {
+    float: left;
+    margin-left: 30px;
+  }
+  header .header-right a img {
+    margin-top: 20px;
+  }
+  header .header-right a img:hover{
+      transform: scale(1.1);
+  }
+  header .header-right a .zc {
+    padding: 5px 8px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 3px;
+  }
+
+
+
+  /* 底部 */
+  footer {
+    padding-top: 50px;
+    background-color: #505050;
+    color: #fff;
+  }
+  footer .col1,
+  footer .col2,
+  footer .col3,
+  footer .col4,
+  footer .col5 {
+    float: left;
+    margin-right: 35px;
+  }
+  footer h5 {
+    font-weight: 500;
+    font-size: 16px;
+  }
+  footer .col6 {
+    float: right;
+  }
+  footer a {
+    color: #999;
+  }
+  footer ul {
+    margin-top: 30px;
+  }
+  footer .col2 img {
+    margin-bottom: 10px;
+  }
+  footer .one {
+    margin-top: 18px;
+  }
+  footer .col4 ul {
+    float: left;
+    margin-right: 25px;
+  }
+  footer .top2 {
+    display: inline-block;
+    margin: 20px 0;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 70px;
+  }
+  
