@@ -1,0 +1,108 @@
+  /******************** 发现酷玩 *******************/
+  /* 标题部分 */
+  
+  nav {
+      background-color: #fff;
+  }
+  
+  nav p {
+      font-size: 30px;
+      text-align: center;
+      padding-top: 30px;
+  }
+  
+  .play {
+      font-size: 20px;
+      text-align: center;
+      margin-top: 25px;
+      overflow: hidden;
+  }
+  
+  .play a {
+      width: 200px;
+      height: 50px;
+      line-height: 50px;
+      display: inline-block;
+      cursor: pointer;
+      color: #999;
+  }
+  
+  .hr {
+      border-bottom: 3px solid red;
+  }
+  /* 商品展示部分 */
+  
+  main {
+      height: 3400px;
+      background-color: #f7f7f7;
+      overflow: hidden;
+  }
+  
+  .box {
+      height: 640px;
+      background-color: #fff;
+      box-sizing: border-box;
+      margin: 42px 0px;
+  }
+  
+  .box-1 {
+      height: 25px;
+      padding: 20px 0px;
+  }
+  
+  .box-1>span {
+      display: inline-block;
+      background-color: red;
+      width: 5px;
+      height: 30px;
+  }
+  
+  .box-1>p {
+      line-height: 30px;
+      text-indent: 25px;
+  }
+  
+  .box-2 a {
+      color: #999;
+      width: 150px;
+      height: 150px;
+      text-align: center;
+      line-height: 50px;
+      margin: 20px 25px;
+  }
+  
+  .box-3 li {
+      width: 150px;
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+      margin: 0px 10px;
+  }
+  
+  .box-3 li a {
+      color: #999;
+  }
+  /* 个人护理   健康*/
+  
+  .box1 {
+      height: 340px;
+  }
+  /* 智能穿戴 */
+  
+  .box2 {
+      height: 340px;
+  }
+  /* 点击更多 */
+  
+  .box5 {
+      color: #333;
+      text-align: center;
+      height: 150px;
+      line-height: 150px;
+      background-color: #f7f7f7f7;
+      cursor: pointer;
+  }
+  
+  .box5 img {
+      margin: 0px 5px;
+  }
